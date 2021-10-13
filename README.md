@@ -6,4 +6,4 @@ Question 3 - Deep Reinforcement Learning <br>
 Question 4 - Continuous Deep Reinforcement Learning <br>
 Question 5 - Multi-Agent Reinforcement Learning <br>
 
-Refer to "RL 20202021 Coursework Description" for detail.
+Refer to "RL 20202021 Coursework Description.pdf" for detail.
