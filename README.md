@@ -16,5 +16,10 @@ Refer to "RL 20202021 Coursework Description.pdf" for detail.
 	- MARIO; DOOM; STREETFIGHTER; DINO
 - [Starcraft 2 AI](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcBby2qVDsDv41GghEQfr5E)
 
-
 ## Contests
+- NeurIPS Competition Track Program
+	- [2022](https://neurips.cc/Conferences/2022/CompetitionTrack)
+	- [2021](https://neurips.cc/Conferences/2021/CompetitionTrack)
+- [AIcrowd | Challenges](https://www.aicrowd.com/challenges)
+- IEEE Conference on Games
+	- [2021](https://ieee-cog.org/2021/#competitions_section)
